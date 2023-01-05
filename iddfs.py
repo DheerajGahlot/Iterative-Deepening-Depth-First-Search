@@ -1,7 +1,6 @@
 # Iterative Deepning Depth First Search
 
-# Code Submitted by- Abhisek Sharma 20CE10006 
-#                    Abhishek Kumar 20CE10007
+# Code Submitted by- Dheeraj Gahlot 20IM10008                     
 # Date-07-04-22
 
 '''
